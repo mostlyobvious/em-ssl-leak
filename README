@@ -1,0 +1,17 @@
+Steps to reproduce
+------------------
+
+bundle install
+ruby server.rb
+ruby client.rb
+
+
+Affected env
+------------
+
+Linux 2.6.38-11-generic #50-Ubuntu SMP Mon Sep 12 21:17:25 UTC 2011 x86_64 GNU/Linux
+ruby 1.9.2p180 (2011-02-18 revision 30909) [x86_64-linux]
+ii  libssl-dev                                0.9.8o-5ubuntu1                              SSL development libraries, header files and documentation
+ii  libssl0.9.8                               0.9.8o-5ubuntu1                              SSL shared libraries
+ii  libssl1.0.0                               1.0.0d-2ubuntu2                              SSL shared libraries
+ii  openssl                                   0.9.8o-5ubuntu1                              Secure Socket Layer (SSL) binary and related cryptographic tools
